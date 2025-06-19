@@ -24,8 +24,8 @@ In this example, `DocumentFactory` is the abstract creator, and its subclasses (
 
 ## Output
 
-Opening Word Document
-Opening PDF Document
-Opening Excel Document
+- Opening Word Document
+- Opening PDF Document
+- Opening Excel Document
 
 
