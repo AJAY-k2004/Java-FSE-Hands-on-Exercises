@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.column {
+  width: 30%;
+}
+
+.mystyle1 {
+  border-right: 4px solid green;
+}
+
+.st2 {
+  border-right: 4px solid green;
+}
+
+.v1 {
+  border-right: none;
+}
